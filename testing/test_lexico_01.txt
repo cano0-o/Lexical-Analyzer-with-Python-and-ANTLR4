@@ -1,0 +1,50 @@
+/*
+  Archivo: ejemplo_palabras_reservadas.c
+  Autor:    Gemini Advanced
+  Fecha:    28 de octubre de 2024
+  Descripción: Este programa muestra ejemplos de palabras reservadas, 
+               identificadores, comentarios de bloque y simples en C.
+*/
+
+// Función principal del programa
+int main() {
+  // Declaración de variables
+  int edad = 30; // edad es una
+   identificador
+  float salario = 5000.50; // salario es un identificador
+  char inicial = 'J'; // inicial es un identificador
+
+  // Uso de palabras reservadas if, else
+  if (edad > 18) {
+    printf("Es mayor de edad.\n"); 
+  } else {
+    printf("Es menor de edad.\n");
+  }
+
+  // Uso de palabras reservadas while
+  int contador = 0; // contador es un identificador
+  while (contador < 5) {
+    printf("Contador: %d\n", contador);
+    contador++;
+  }
+
+  // Uso de palabras reservadas for
+  for (int i = 0; i < 3; i++) { // i es un identificador
+    printf("Iteración: %d\n", i);
+  }
+
+  // Uso de palabras reservadas switch, case, break, default
+  switch (inicial) {
+    case 'J':
+      printf("La inicial es J.\n");
+      break;
+    case 'A':
+      printf("La inicial es A.\n");
+      break;
+    default:
+      printf("La inicial es otra.\n");
+  }
+
+  // Retorno de la función main
+  return 0; 
+}
