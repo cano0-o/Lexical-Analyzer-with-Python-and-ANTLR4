@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2024 Alfonso Israel Cano Quiñones
+
+Se concede permiso, de manera gratuita, a cualquier persona que obtenga una copia
+del software y los archivos asociados, a utilizarlo, copiarlo, modificarlo, fusionarlo,
+publicarlo, distribuirlo, sublicenciarlo y/o vender copias del software, y a permitir que
+las personas a las que se les proporcione el software lo hagan, bajo las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso deben incluirse en todas las copias o
+partes sustanciales del software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA,
+INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN
+PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DEL
+DERECHO DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMO, DAÑO O OTRA RESPONSABILIDAD,
+YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA ACCIÓN, QUE SURJA DE O EN
+CONEXIÓN CON EL SOFTWARE O EL USO O EL OTRO TIPO DE ACCIONES EN EL SOFTWARE.

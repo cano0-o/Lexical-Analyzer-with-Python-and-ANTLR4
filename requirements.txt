@@ -1,0 +1,2 @@
+reportlab==3.6.12  # Para generación de PDFs
+matplotlib==3.8.0  # Para gráficos y estadísticas
